@@ -53,6 +53,7 @@ class Response
             trigger_error('Error: Could not load template ' . $file . '!');
             exit();
         }
+
     }
 
     /**
